@@ -1,0 +1,37 @@
+body {
+ background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/533ac189-3345-4bd6-ab30-f47685bb103b/dfftn7m-4cb1343a-ccfc-489b-bb4e-f3d3b94c26dc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUzM2FjMTg5LTMzNDUtNGJkNi1hYjMwLWY0NzY4NWJiMTAzYlwvZGZmdG43bS00Y2IxMzQzYS1jY2ZjLTQ4OWItYmI0ZS1mM2QzYjk0YzI2ZGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bgv1zPWHI64Xh7r4YxssGXN8VQsRnCjxG0OSkYMZ4mw");
+  background-color: #666666;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+#box {
+  top: 9em;
+  margin: auto;
+  position: relative;
+  border-radius: 20px;
+  height: 100px;
+  width: 400px;
+}
+#heading {
+  font-size: 40px;
+  letter-spacing: 2px;
+  text-align: center;
+  color: snow;
+  font-family: 'hanging letters';
+}  
+#choosebib {
+  font-family: 'rainyhearts';
+  margin-top: 2em;
+  margin-left: 2.6em;
+  margin-right: 3em;
+  color: black;
+  background-color: rgb(250, 248, 246);
+  border-radius: 10px;
+  padding: 5px 12px;
+  font-size: larger;
+  transition: 0.1s linear;
+}
+button:hover {
+  background-color: rgb(248, 252, 255);
+  box-shadow: 0px 2px 4px 1px rgb(230, 152, 86);
+}
