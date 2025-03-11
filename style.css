@@ -7,8 +7,8 @@ body {
 #box {
   top: 9em;
   margin: auto;
-  position: relative;
-  border-radius: 20px;
+  position: fix;
+  border-radius: 10px;
   height: 100px;
   width: 400px;
 }
