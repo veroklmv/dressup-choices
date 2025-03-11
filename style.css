@@ -24,15 +24,13 @@ body {
   margin-top: 2em;
   margin-left: 2.6em;
   margin-right: 3em;
+  text-align: center;
   color: #00000;
   background-color: rgb(250, 248, 246);
   border-radius: 10px;
   padding: 5px 12px;
   font-size: larger;
   transition: 0.1s linear;
-}
-a:link {
-  color: #00000;
 }
 button:hover {
   background-color: rgb(248, 252, 255);
